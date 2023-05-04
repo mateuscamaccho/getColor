@@ -76,7 +76,7 @@ startBtn.addEventListener('click', () => {
                 divColor.style.color = '#000';
             }
         })
-        .catch((e) => {
+        .catch((e) => { 
             alert('Error: ' + e);
         });
 

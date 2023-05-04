@@ -34,7 +34,7 @@ body {
 @media screen and (max-width: 992px) {
 
     .svg1 {
-        width   : 300px;
+        width   : 300px; 
         position: absolute;
         top     : -100px;
         left    : -100px;
